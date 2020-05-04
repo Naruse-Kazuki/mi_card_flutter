@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
               Container(
-//                width: 30.0,
+                width: 30.0,
                 color: Colors.white,
                 child: Text('Container 1'),
               ),
