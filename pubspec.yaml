@@ -26,4 +26,7 @@ flutter:
   assets:
     - image/Screenshot_20200322-023249~01_20200325104138.png
 
-
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: GoogleFonts/Pacifico/Pacifico-Regular.ttf
