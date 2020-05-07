@@ -17,7 +17,14 @@ class MyApp extends StatelessWidget {
                 radius: 50.0,
                 backgroundImage: AssetImage(
                     'image/Screenshot_20200322-023249~01_20200325104138.png'),
-              )
+              ),
+              Text(
+                'Kazuki Naruse',
+                style: TextStyle(
+                    fontSize: 40.0,
+                    color: Colors.white,
+                    fontWeight: FontWeight.bold),
+              ),
             ],
           ),
         ),
