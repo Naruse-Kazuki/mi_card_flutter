@@ -43,13 +43,13 @@ class MyApp extends StatelessWidget {
                       Icons.phone,
                       color: Colors.white,
                     ),
-//                    Text(
-//                      '+44 123 456 789',
-//                      style: TextStyle(
-//                          color: Colors.teal.shade900,
-//                          fontFamily: 'Source Sans Pro',
-//                          fontSize: 20.0),
-//                    ),
+                    Text(
+                      '+44 123 456 789',
+                      style: TextStyle(
+                          color: Colors.teal.shade900,
+                          fontFamily: 'Source Sans Pro',
+                          fontSize: 20.0),
+                    ),
                   ],
                 ),
               )
