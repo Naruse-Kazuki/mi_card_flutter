@@ -66,14 +66,14 @@ class MyApp extends StatelessWidget {
                       Icons.email,
                       color: Colors.white,
                     ),
-//                    Text(
-//                      'sample@email.com',
-//                      style: TextStyle(
-//                        color: Colors.teal.shade900,
-//                        fontFamily: 'Source sans Pro',
-//                        fontSize: 20.0,
-//                      ),
-//                    ),
+                    Text(
+                      'sample@email.com',
+                      style: TextStyle(
+                        color: Colors.teal.shade900,
+                        fontFamily: 'Source sans Pro',
+                        fontSize: 20.0,
+                      ),
+                    ),
                   ],
                 ),
               ),
