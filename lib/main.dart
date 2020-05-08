@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontSize: 40.0,
-                    color: Colors.red,
+                    color: Colors.white,
                     fontWeight: FontWeight.bold),
               ),
             ],
