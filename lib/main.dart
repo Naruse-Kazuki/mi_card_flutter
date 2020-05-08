@@ -58,7 +58,25 @@ class MyApp extends StatelessWidget {
                     ),
                   ],
                 ),
-              )
+              ),
+              Container(
+                child: Row(
+                  children: <Widget>[
+                    Icon(
+                      Icons.email,
+                      color: Colors.white,
+                    ),
+//                    Text(
+//                      'sample@email.com',
+//                      style: TextStyle(
+//                        color: Colors.teal.shade900,
+//                        fontFamily: 'Source sans Pro',
+//                        fontSize: 20.0,
+//                      ),
+//                    ),
+                  ],
+                ),
+              ),
             ],
           ),
         ),
