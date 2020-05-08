@@ -26,6 +26,10 @@ class MyApp extends StatelessWidget {
                     color: Colors.white,
                     fontWeight: FontWeight.bold),
               ),
+              Text(
+                'FLUTTER DEVEROPER',
+                style: TextStyle(fontFamily: 'Source Sans Pro'),
+              )
             ],
           ),
         ),
