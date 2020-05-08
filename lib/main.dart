@@ -60,11 +60,17 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Container(
+                padding: EdgeInsets.all(10.0),
+                color: Colors.white,
+                margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: Row(
                   children: <Widget>[
                     Icon(
                       Icons.email,
-                      color: Colors.white,
+                      color: Colors.teal,
+                    ),
+                    SizedBox(
+                      width: 10.0,
                     ),
                     Text(
                       'sample@email.com',
