@@ -1,3 +1,6 @@
+![スクリーンショット 2020-05-09 18 33 18](https://user-images.githubusercontent.com/53788311/81470067-a223fe80-9223-11ea-879a-b5669ab07419.png)
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 # Mi Card
